@@ -17,3 +17,4 @@ Pre-analysis stage of data readiness included;
 2. Proper inspection
 3. Using filters across individual columns to remove any (blank) cells
 4. Making sure there were no error cell, no missing values too
+
