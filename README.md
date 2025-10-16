@@ -10,3 +10,10 @@ The primary dataset for this analysis is from 'Ecommerce Sales Analysis.xlsx', d
 ### Tools
 - Ms Excel  (Data Cleaning & Analysis)
 - Ms Powerpoint  (Data Presentation)
+
+### Data Cleaning/Preparation
+Pre-analysis stage of data readiness included;
+Downloading the data
+Proper inspection
+Using filters across individual columns to remove any (blank) cells
+Making sure there were no error cell, no miing values too
