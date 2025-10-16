@@ -4,6 +4,11 @@ Extracting and reporting stakeholder satisfactory insight from dataset containin
 ### Project Overview
 This data analysis project look to provide insights on e-commerce company's sale from 2011 through 2014. It aims to notice trends and visualize data insights from sales' performance.
 
+#### Key Performance Indicators
+- What were the Overall Sales & Profit through the years?
+- Where the Top 5 selling products for the company?
+-  
+
 ### Data Sources
 The primary dataset for this analysis is from 'Ecommerce Sales Analysis.xlsx', download [here](https://docs.google.com/spreadsheets/d/1L6aBX0uNlzKiJb7JHdkNUile18s9CI4r/edit?gid=1589100670#gid=1589100670), contains detailed information on company sales between 2011 & 2014.
 
