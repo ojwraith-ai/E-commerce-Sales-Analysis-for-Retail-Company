@@ -9,5 +9,4 @@ The primary dataset for this analysis is from 'Ecommerce Sales Analysis.xlsx', d
 
 ### Tools
 - Ms Excel  (Data Cleaning & Analysis)
-- M
-- Ms Powerpoint
+- Ms Powerpoint  (Data Presentation)
