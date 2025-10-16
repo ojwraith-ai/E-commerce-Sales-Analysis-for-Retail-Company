@@ -13,7 +13,7 @@ The primary dataset for this analysis is from 'Ecommerce Sales Analysis.xlsx', d
 
 ### Data Cleaning/Preparation
 Pre-analysis stage of data readiness included;
-Downloading the data
-Proper inspection
-Using filters across individual columns to remove any (blank) cells
-Making sure there were no error cell, no miing values too
+1. Downloading the data
+2. Proper inspection
+3. Using filters across individual columns to remove any (blank) cells
+4. Making sure there were no error cell, no missing values too
