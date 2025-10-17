@@ -45,7 +45,29 @@ Right click the new column containing the list of products to sort them in order
 
 Select the 'Filter' option upon right clicking the product column, this provides a 'Top  10' value option that is predicated on the the 'Sum of Sales' values  
 
-Adjust the suggessted Top 10 to a Top 5, this returns the expected result to satisfy the KPI
+Adjust the suggested Top 10 to a Top 5, this returns the expected result to satisfy the KPI
 
 #### KPI 3
 - What products yield the most profit? Did any product result in losses?
+
+In a new Pivot Table option, elect the 'Subcategory' column to satisfy the row field area, and then the 'Profit' column to be the value field.
+
+This results in a new table that sums up the profit/loss for each product
+
+#### KPI 4
+-What single product sold the most quantity?
+
+A pivot table with the product in rows (Subcategory) and the quantity column a a value field will yield appropriate results for this KPI
+
+The products can be arranged from 'largest to smallest' quantity by right clicking and seelecting the option to 'Sort' based on that
+
+The product with the highest quantity purchase top the list now
+
+#### KPI 5
+- What is the trend of sales across the years?
+
+This would include total sales sums for the individual years
+
+Using a new pivot table, putting up the 'Subcategory' in the row column and then the 'Sum of Sales' in the value column, a twist for this is to include the 'Year' column a a filter for this data
+
+For a first table, set this filter to 
