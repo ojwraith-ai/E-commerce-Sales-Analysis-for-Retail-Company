@@ -30,12 +30,22 @@ Pre-analysis stage of data readiness included;
 Highlighting the entire worksheet to create a new Pivot Table in a new worksheet for data manipulation
 
 #### KPI 1
+- What were the Overall Sales & Profit through the years?
+  
 The 'Sales' column is added to the value field area of the Pivot Table, this culminates in the entiriety of Sales for all transactions within the dataset 
 
+In a new Pivot Table option (copy and paste the previous Pivot Table), add the 'Profit' column to the value field areato create a 'Sum of Profit' table
+
 #### KPI 2
+- Where the Top 5 selling products for the company?
+  
 Creating a new Pivot Table with the 'Subcategory' column in the row field area and the 'Sales' column in the value field area, this tallies individual products against their total sales
 
 Right click the new column containing the list of products to sort them in order of 'largest to smallest' based on 'sum of sales' value
 
 Select the 'Filter' option upon right clicking the product column, this provides a 'Top  10' value option that is predicated on the the 'Sum of Sales' values  
 
+Adjust the suggessted Top 10 to a Top 5, this returns the expected result to satisfy the KPI
+
+#### KPI 3
+- What products yield the most profit? Did any product result in losses?
