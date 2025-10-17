@@ -70,4 +70,10 @@ This would include total sales sums for the individual years
 
 Using a new pivot table, putting up the 'Subcategory' in the row column and then the 'Sum of Sales' in the value column, a twist for this is to include the 'Year' column a a filter for this data
 
-For a first table, set this filter to 
+For a first table, set this filter to the year 2011. Set up subsequent individual tables for the years 2012, 2013, and 2014
+
+This pulls up data for how each products' sales adjusts through the years
+
+Next step is to set up a table that retrieves the data for individual products across every year of data
+This table, has the Products in the first column and then the individual years 2011, 2012, 2013, & 2014 for the remaining columns
+To fill up the roster for the values here, we would use the XLOOKUP function 
